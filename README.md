@@ -1,13 +1,15 @@
-# DarkFB Termux
+# darkfb
+Script dark fb v1.7 terbaru
 
-<ul>
-<li><code>pkg install git python2</code></li>
-<li><code>pip2 install --upgrade pip</code></li>
-<li><code>git clone https://github.com/TheMagizz/DarkPremium</code></li>
-<li><code>cd DarkPremium</code></li>
-<li><code>pip2 install -r requirements.txt</code></li>
-<li><code>python2 DarkFB.py</code></li>
-</ul>
-<br />
-<br />
-<img src="https://github.com/TheMagizz/DarkPremium/blob/master/Screenshot_2019-07-03-22-49-47-917_com.termux.png" />
+# cara menggunakan
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>http://termux.id/cara-hack-facebook-menggunakan-termux-script-dark-fb/</code></pre>
+<!-- /wp:code -->
+
+# tetap terhubung
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>http://termux.id/</code></pre>
+<pre class="wp-block-code"><code>http://storiku.xyz</code></pre>
+<!-- /wp:code -->
